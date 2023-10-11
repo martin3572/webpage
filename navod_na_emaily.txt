@@ -1,0 +1,7 @@
+https://netcorecloud.com/tutorials/send-an-email-via-gmail-smtp-server-using-php/
+postupovat podla tohto:
+    nastavit 2 factor a vygenerovat heslo:
+    stiahnut phpmailer
+    rozbalit do zlozky
+
+    setup smtp a udajov
